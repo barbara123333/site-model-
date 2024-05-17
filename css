@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+.tendencia {
+    margin-bottom: 20px;
+}
+
+.tendencia img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.tendencia h2 {
+    color: #666;
+    font-size: 1.2em;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.tendencia p {
+    color: #888;
+    font-size: 1em;
+    text-align: center;
+}
